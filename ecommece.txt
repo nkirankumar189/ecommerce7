@@ -1,0 +1,30 @@
+
+      Ecommerce project
+      ------------------------
+
+      http://ecommerce-7pm.s3.us-east-2.amazonaws.com/p1.jpg
+
+      https://ecommerce-7pm.s3.us-east-2.amazonaws.com/p1.jpg
+
+      https://ecommerce-7pm.s3.us-east-2.amazonaws.com/p2.jpg
+
+
+      mongodb details
+      --------------
+      database:ecommerce-7pm
+      collection:products
+      user name:kiran
+      password:admin
+      database URL:mongodb+srv://kiran:<admin>@testcluster.abm7j.mongodb.net/ecoommerce-7pm?retryWrites=true&w=majority
+
+      mongodb+srv://kiran:admin@testcluster.abm7j.mongodb.net/ecoomerce-7pm?retryWrites=true&w=majority
+
+**************************************************************************************************************
+
+      mongodb+srv://admin:admin@majorproject.9yrsk.mongodb.net/ecommerce?retryWrites=true&w=majority
+
+      database:ecommerce
+      collection:products
+      user name:admin
+      pw:admin
+      *******************************************************************************
